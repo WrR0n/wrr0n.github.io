@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on WrR0n || Web Developer</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on WrR0n || Web Developer</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>WrR0n</copyright>
+    <lastBuildDate>Mon, 14 Oct 2024 23:30:47 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revolutionizing Frontend Development with Tailwind CSS</title>
+      <link>http://localhost:1313/posts/tailwindfrontenddevelopment/</link>
+      <pubDate>Mon, 14 Oct 2024 23:30:47 +0200</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/posts/tailwindfrontenddevelopment/</guid>
+      <description>&lt;p&gt;As a web developer with a focus on WordPress and modern development practices, I&amp;rsquo;ve found that Tailwind CSS has significantly transformed my approach to frontend projects. Here&amp;rsquo;s why I believe Tailwind CSS is a game-changer and how it has improved my workflow.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-tailwind-css&#34;&gt;What is Tailwind CSS?&lt;/h2&gt;&#xA;&lt;p&gt;Tailwind CSS is a utility-first CSS framework that allows you to build custom designs without ever leaving your HTML. Unlike traditional frameworks like Bootstrap or Foundation, Tailwind doesn&amp;rsquo;t provide pre-built components. Instead, it gives you low-level utility classes that you can use to build completely custom designs.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

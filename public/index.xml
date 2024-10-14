@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WrR0n || Web Developer</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on WrR0n || Web Developer</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>WrR0n</copyright>
+    <lastBuildDate>Mon, 14 Oct 2024 23:40:37 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 14 Oct 2024 23:40:37 +0200</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hello! I&amp;rsquo;m Ronald, a passionate web developer with a focus on WordPress and modern development practices. With 3 years of experience at DvA.dev, I&amp;rsquo;ve honed my skills in creating robust, efficient, and user-friendly websites.&lt;/p&gt;&#xA;&lt;h3 id=&#34;expertise&#34;&gt;Expertise&lt;/h3&gt;&#xA;&lt;h4 id=&#34;wordpress-development&#34;&gt;WordPress Development&lt;/h4&gt;&#xA;&lt;p&gt;I specialize in WordPress development, leveraging the powerful Roots.io stack:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sage&lt;/strong&gt;: For modern WordPress theme development&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Radicle&lt;/strong&gt;: Utilizing Laravel within WordPress&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Acorn&lt;/strong&gt;: Enhancing WordPress with Laravel&amp;rsquo;s features&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bedrock&lt;/strong&gt;: For WordPress boilerplate and improved structure&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bud&lt;/strong&gt;: For efficient asset compilation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;front-end-frameworks&#34;&gt;Front-End Frameworks&lt;/h4&gt;&#xA;&lt;p&gt;I&amp;rsquo;m proficient in popular front-end frameworks, including:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Revolutionizing Frontend Development with Tailwind CSS</title>
+      <link>http://localhost:1313/posts/tailwindfrontenddevelopment/</link>
+      <pubDate>Mon, 14 Oct 2024 23:30:47 +0200</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/posts/tailwindfrontenddevelopment/</guid>
+      <description>&lt;p&gt;As a web developer with a focus on WordPress and modern development practices, I&amp;rsquo;ve found that Tailwind CSS has significantly transformed my approach to frontend projects. Here&amp;rsquo;s why I believe Tailwind CSS is a game-changer and how it has improved my workflow.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-tailwind-css&#34;&gt;What is Tailwind CSS?&lt;/h2&gt;&#xA;&lt;p&gt;Tailwind CSS is a utility-first CSS framework that allows you to build custom designs without ever leaving your HTML. Unlike traditional frameworks like Bootstrap or Foundation, Tailwind doesn&amp;rsquo;t provide pre-built components. Instead, it gives you low-level utility classes that you can use to build completely custom designs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/manifest.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/manifest.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/_index.de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/search/_index.de/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/_index.es/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/search/_index.es/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/_index.fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/search/_index.fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/_index.hi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/search/_index.hi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/_index.jp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/search/_index.jp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/_index.nl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/search/_index.nl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/_index.pl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/search/_index.pl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/_index.ru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/search/_index.ru/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/_index.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/search/_index.zh-cn/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
